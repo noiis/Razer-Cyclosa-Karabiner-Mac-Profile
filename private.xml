@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<root>
+
+  <item>
+    <name>[MEU][RAZER CYLCOSA]</name>
+    <appendix>Ajusta as teclas do Razer Cyclosa!</appendix>
+    <appendix>SEMPRE FAZER SYNC COM DROPBOX! via SYMLINK ou SOMETHING :)</appendix>
+
+    <item>
+      <name>F1 → Mute</name>
+      <identifier>private.cyclosa_f1</identifier>
+      <autogen>__KeyToKey__ KeyCode::F1, ConsumerKeyCode::VOLUME_MUTE</autogen>
+    </item>
+
+    <item>
+      <name>F2 → Volume Down</name>
+      <identifier>private.cyclosa_f2</identifier>
+      <autogen>__KeyToKey__ KeyCode::F2, ConsumerKeyCode::VOLUME_DOWN</autogen>
+    </item>
+
+    <item>
+      <name>F3 → Volume Up</name>
+      <identifier>private.cyclosa_f3</identifier>
+      <autogen>__KeyToKey__ KeyCode::F3, ConsumerKeyCode::VOLUME_UP</autogen>
+    </item>
+
+    <item>
+      <name>F5 → Play/Pause Music</name>
+      <identifier>private.cyclosa_f5</identifier>
+      <autogen>__KeyToKey__ KeyCode::F5, ConsumerKeyCode::MUSIC_PLAY</autogen>
+    </item>
+
+    <item>
+      <name>F7 → Previous Music</name>
+      <identifier>private.cyclosa_f7</identifier>
+      <autogen>__KeyToKey__ KeyCode::F7, ConsumerKeyCode::MUSIC_PREV</autogen>
+    </item>
+
+    <item>
+      <name>F8 → Next Music</name>
+      <identifier>private.cyclosa_f8</identifier>
+      <autogen>__KeyToKey__ KeyCode::F8, ConsumerKeyCode::MUSIC_NEXT</autogen>
+    </item>
+  </item>
+
+</root>
