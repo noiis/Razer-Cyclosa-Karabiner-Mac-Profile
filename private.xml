@@ -2,9 +2,8 @@
 <root>
 
   <item>
-    <name>[MEU][RAZER CYLCOSA]</name>
-    <appendix>Ajusta as teclas do Razer Cyclosa!</appendix>
-    <appendix>SEMPRE FAZER SYNC COM DROPBOX! via SYMLINK ou SOMETHING :)</appendix>
+    <name>[RAZER CYLCOSA]</name>
+    <appendix>Fixes Razer Cyclosa!</appendix>
 
     <item>
       <name>F1 → Mute</name>
